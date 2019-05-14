@@ -1,6 +1,8 @@
 # petri-paint (very WIP)
 A web-based Petri net editor. Uses [Svelte](https://svelte.dev) components ❤️
 
+[![Edit petri-paint](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/adklempner/petri-paint/tree/master/?autoresize=1&fontsize=14&hidenavigation=1&module=%2Fsrc%2Fcomponents%2FEditor.svelte)
+
 # sapper-template
 
 The default [Sapper](https://github.com/sveltejs/sapper) template, with branches for Rollup and webpack. To clone it and get started:
